@@ -21,9 +21,11 @@
   "homepage": "https://github.com/bigcommerce/stencil-styles#readme",
   "dependencies": {
     "autoprefixer": "^6.7.3",
+    "hoek": "^4.1.0",
     "lodash": "^3.10.1",
     "node-sass": "3.4.2",
-    "postcss": "^5.2.14"
+    "postcss": "^5.2.14",
+    "sass.js": "git+ssh://git@github.com/mcampa/sass.js.git#libsass.3.3.2"
   },
   "devDependencies": {
     "code": "^1.4.0",
